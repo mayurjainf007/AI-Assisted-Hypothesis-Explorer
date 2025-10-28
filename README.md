@@ -1,4 +1,3 @@
-[![CI](https://img.shields.io/github/actions/workflow/status/OWNER/REPO/ci.yml?branch=main)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)
 [![Cloud Run](https://img.shields.io/badge/cloud--run-ready-brightgreen)](#)
 
@@ -30,7 +29,3 @@ docker compose up
 ## Optional Env
 - OPENAI_API_KEY, OPENAI_MODEL (backend)
 - API_URL (frontend)
-
-
-## Screenshots
-![App Screenshot](docs/screenshots/screenshot.png)
